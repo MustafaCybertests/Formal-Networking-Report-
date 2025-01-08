@@ -1,4 +1,4 @@
-<h1>Building a Powerful Home SIEM Lab!</h1>
+<h1>Writing a Formal Network Archeticure Report!</h1>
 
 <h2>Description</h2>
 In this lab we will be creating a SIEM. SIEM approach to managing security. What it does is provides centralized platform for collecting and analysing and responding to security related events and incidents, a SIEM system aggregates data from various sources 
