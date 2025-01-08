@@ -1,50 +1,18 @@
 <h1>Writing a Formal Network Archeticure Report!</h1>
 
 <h2>Description</h2>
-In this lab we will be creating a SIEM. SIEM approach to managing security. What it does is provides centralized platform for collecting and analysing and responding to security related events and incidents, a SIEM system aggregates data from various sources 
-like network hardware, security appliances, operating systems, and applications to identify and respond to potential threats. 
+I was tasked with writing a formal report to a company's executives mentioning my reccommendations on how to structure their IT Network. Taking a Intro to Networking course taught me alot on networking basics, TCP/IP protocol suites, wireless and wide area networks, and network security and troubleshooting. For my final exam, the assignment was 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Final Assignment Rubric </h2>
+Imagine that you have been asked by Greenfield Properties to provide guidance and advice about how they should set up the IT network in their new building. Review the scenario and client requirements about Greenfield Properties again if needed, including the various job roles and devices to be supported.
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+Your assignment is to write a formal report to the company’s executives mentioning your recommendations.
 
-<h2>Environments Used </h2>
+Since your target audience is not highly technical, you will need to explain technical features and their importance in simple terms. Do not use a lot of jargon that they will not understand; if you do use jargon, you must explain each term.
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Your report should focus on benefits and drawbacks and show an awareness of what the company’s decision-makers want as the end result of this network rollout. In other words, you should focus on what their overall goals are. Availability is certainly one and security is another. Consider what you know of the company from the scenario, and think of other outcomes they may also want; then make sure your report addresses how your recommendations will help with achieving those outcomes.
 
 <!--
  ```diff
