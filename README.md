@@ -8,7 +8,7 @@
 For my Intro to Networking class final exam, I had to write a formal report to a company's executives giving my recommendations on how to structure their IT Network. The Intro to Networking course covered a broud number of topics, those topics including, networking basics, TCP/IP protocol suites, wireless and wide area networks, network security, and troubleshooting. This final exam tasked me with compiling everything I learned and give recommendations on structuring a IT Network.
 <br />
 
-<h2>Final Example and Rubric </h2>
+<h2>Final Prompt Example and Rubric </h2>
 Imagine that you have been asked by Greenfield Properties to provide guidance and advice about how they should set up the IT network in their new building. Review the scenario and client requirements about Greenfield Properties again if needed, including the various job roles and devices to be supported.
 
 Your assignment is to write a formal report to the company’s executives mentioning your recommendations.
